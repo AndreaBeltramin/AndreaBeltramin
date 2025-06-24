@@ -1,6 +1,5 @@
 ![Copertina](/assets/copertina-github.png)
 
-```markdown
 # 👋 Ciao, sono Andrea!
 
 Dopo diverse esperienze lavorative come **portalettere** e **fattorino**, in cui ho sviluppato solide capacità di **gestione del tempo**, **comunicazione efficace** e **resilienza sotto pressione**, ho deciso di dare una nuova direzione alla mia carriera e reinventarmi nel settore tech.
@@ -38,4 +37,3 @@ Se vuoi dare un’occhiata ai miei progetti o semplicemente fare due chiacchiere
 - 📩 Email: andreabeltra99@gmail.com
 
 > 💬 _"Non importa da dove parti, ma dove vuoi arrivare."_
-```
