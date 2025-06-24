@@ -1,4 +1,4 @@
-![Copertina](/assets/copertina-github.png)
+![Copertina](/assets/github.png)
 
 # 👋 Ciao, sono Andrea!
 
