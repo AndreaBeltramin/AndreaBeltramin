@@ -32,8 +32,8 @@ Sono alla ricerca di un'opportunità in un contesto stimolante dove poter:
 
 Se vuoi dare un’occhiata ai miei progetti o semplicemente fare due chiacchiere:
 
-- [LinkedIn](https://www.linkedin.com/in/tuo-profilo)
-- [GitHub](https://github.com/tuo-username)
+- [LinkedIn](https://www.linkedin.com/in/andrea-beltramin-4b9881173/)
+- [GitHub](https://github.com/AndreaBeltramin)
 - 📩 Email: andreabeltra99@gmail.com
 
 > 💬 _"Non importa da dove parti, ma dove vuoi arrivare."_
